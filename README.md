@@ -40,9 +40,9 @@ The system follows a directed graph workflow:
 - **Python 3.10+**
 - **Ollama**: [Download and install Ollama](https://ollama.com/).
 - **Model**: Pull the recommended model:
-  ```bash
+```bash
   ollama pull gemma3:12b
-  ```
+```
 
 ### 2. Install Dependencies
 Clone this repository and install the required packages:
