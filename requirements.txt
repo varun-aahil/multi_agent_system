@@ -1,0 +1,6 @@
+langchain-core
+langgraph
+langchain-ollama
+tenacity
+requests
+streamlit
